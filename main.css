@@ -1,0 +1,45 @@
+body {
+	background-color: #1F2833;
+	padding-bottom: 25px;
+}
+
+h1 {
+	color: #66FCF1;
+	font-family: "Arial Black";
+}
+
+h2 {
+	color: #FFFFFF;
+	font-family: "Arial Black";
+}
+
+p {
+	color: #C5C6C7;
+	font-family: Georgia;
+	max-width: 400px;
+}
+
+#content {
+	padding: 25px;
+	border-bottom: 5px solid #45A29E;
+}
+
+#header {
+	text-align: center;
+	padding-bottom: 25px;
+	border-bottom: 5px solid #45A29E;
+}
+
+a {
+	font-family: Georgia;
+	font-size: medium;
+}
+
+a:link {
+	color: #FFFFFF;
+}
+
+a:visited {
+	color: #FFFFFF;
+}
+
